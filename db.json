@@ -1,0 +1,96 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altimg": "vegy",
+      "title": "Plan 'Usual'",
+      "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatipus natus nobis minus corporis atque enim vitae, modi eligendi commodi itaque voluptatum ipsum. nemo reiciedis, id rem dolorum rerum consequuntur eos.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "elite",
+      "title": "Plan “Premium”",
+      "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatipus natus nobis minus corporis atque enim vitae, modi eligendi commodi itaque voluptatum ipsum. nemo reiciedis, id rem dolorum rerum consequuntur eos.",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "post",
+      "title": "Plan “VIP”",
+      "descr": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatipus natus nobis minus corporis atque enim vitae, modi eligendi commodi itaque voluptatum ipsum. nemo reiciedis, id rem dolorum rerum consequuntur eos.",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "Yashnarbek",
+      "phone": "+998 91 278 96 05",
+      "id": 1
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998  91 278 96 05",
+      "id": 2
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998 91 278 96 05",
+      "id": 3
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 4
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 5
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 6
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 7
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 8
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "name": "Ibragimov",
+      "phone": "912789605",
+      "id": 13
+    },
+    {
+      "name": "Ibragimov",
+      "phone": "912789605",
+      "id": 14
+    },
+    {
+      "name": "Yashnarbek",
+      "phone": "+998912789605",
+      "id": 15
+    }
+  ]
+}
